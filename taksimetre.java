@@ -10,7 +10,7 @@ public class taksimetre {
         System.out.println("Kilometreyi girin");
 
         km = input.nextInt();
-        toplam_tutar = 0;
+        toplam_tutar = 10;
 
         if (toplam_tutar < 20) {
             toplam_tutar = 20;
